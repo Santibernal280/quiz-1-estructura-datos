@@ -1,0 +1,30 @@
+# Respuestas - Quiz 1 Estructura de Datos
+
+## 1. Diferencia entre un IDE y un editor de texto
+Un **IDE (Integrated Development Environment)** es un entorno de desarrollo integrado que proporciona herramientas adicionales como un depurador, control de versiones, terminal integrada, entre otras, facilitando así el proceso de desarrollo de software. Ejemplos incluyen Visual Studio, IntelliJ IDEA y Eclipse.
+
+Un **editor de texto**, en cambio, es una herramienta más simple diseñada principalmente para editar texto. Si bien algunos editores de texto como Visual Studio Code o Sublime Text pueden ampliarse con plugins para proporcionar funcionalidades similares a las de un IDE, por defecto no cuentan con todas estas características avanzadas. Ejemplos incluyen Notepad++, Atom y Vim.
+
+## 2. Tipos de lenguajes de programación (tipados y no tipados)
+- **Lenguajes tipados**: En los lenguajes de programación tipados, cada variable y expresión tiene un tipo definido, y el tipo debe ser respetado durante la ejecución del programa. Ejemplos de lenguajes tipados incluyen Java, C++ y C#.
+
+- **Lenguajes no tipados**: En los lenguajes no tipados, no se requiere que las variables tengan un tipo definido. Los tipos pueden ser dinámicos y cambiar en tiempo de ejecución. Ejemplos de lenguajes no tipados incluyen Python, JavaScript y Ruby.
+
+## 3. Tipos de datos en Java
+### a. Numéricos
+Java soporta varios tipos de datos numéricos, incluyendo:
+- **byte**: 8 bits, entero con signo.
+- **short**: 16 bits, entero con signo.
+- **int**: 32 bits, entero con signo.
+- **long**: 64 bits, entero con signo.
+- **float**: 32 bits, punto flotante.
+- **double**: 64 bits, punto flotante.
+
+### b. Cadenas
+- **String**: Una secuencia de caracteres. Es un tipo de dato especial en Java que representa texto.
+
+### c. Fechas
+Java tiene varias clases para manejar fechas, entre las más comunes se encuentran:
+- **java.util.Date**: Representa una fecha y hora específica.
+- **java.time.LocalDate**: Representa una fecha sin una hora (por ejemplo, 2023-08-23).
+- **java.time.LocalDateTime**: Representa una fecha y hora combinadas.
